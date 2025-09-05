@@ -188,7 +188,7 @@ body {
 }
 
 /* Video strip */
-.Video-strip {
+.video-strip {
   position: relative;
   width: 100%;
   aspect-ratio: 16 / 9;     
